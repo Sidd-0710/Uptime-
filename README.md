@@ -1,4 +1,4 @@
-# Hi, I'm Siddheshwar ! 👋
+# Hi, I'm Siddheshwar Chirkute ! 👋
 
 I'm passionate about coding, technology, and building cool projects.
 
@@ -8,7 +8,7 @@ Uptime: 21 years 182 days
 This uptime updates automatically every day at midnight!
 
 ## About Me
-- 💻 I love working on JavaScript, React, and Node.js.
+- 💻 I love working on JavaScript, React.
 - 🎯 Always learning something new!
 
 ---

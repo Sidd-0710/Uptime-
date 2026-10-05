@@ -3,7 +3,7 @@
 I'm passionate about coding, technology, and building cool projects.
 
 ## My Uptime ⏳
-Uptime: 23 years 3 days
+Uptime: 23 years 4 days
 
 This uptime updates automatically every day at midnight!
 
